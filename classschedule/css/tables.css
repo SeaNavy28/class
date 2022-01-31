@@ -1,0 +1,52 @@
+.row1 {
+    font-family: 'oswald', sans-serif;
+}
+
+th {
+    border: 1px solid white;
+    border-collapse: collapse;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+}
+
+.header1 h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+
+.header1 p {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+table {
+    border-style: outset;
+    border-collapse: collapse;
+    border-color: whitesmoke;
+    width: 80%;
+    height: 300px;
+    margin: 0px auto;
+    margin-top: 3%;
+}
+
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+}
+
+tr:nth-child(odd) {
+    background-color: #58cfff;
+}
+
+.row2, .row3, .row4, .row5, .row6, .row7, .row8, .row9 {
+    font-family: 'oswald', sans-serif;
+    font-weight: 200;
+}
+
+.time {
+    font-family: 'Supermercado One', cursive;
+}
